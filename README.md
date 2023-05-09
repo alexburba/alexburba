@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexei Burba (@alexburba)
 - 👀 I’m interested in Presentations, Values, Decision-Making and Typefaces
 - 🌱 I’m currently studying Spanish
-- 💞️ I’m looking to collaborate on Decision-Making, Typefaces, Presentations and Values
+- 💞️ I’m looking to collaborate on Decision-Making, Values, Typefaces 
 - 📫 How to reach me
       — web: http://burba.pro
       — twt: twitter.com/alexburba
